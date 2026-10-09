@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e9edff"/><stop offset="1" stop-color="#f0faf6"/></linearGradient></defs>
+<rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+<text x="70" y="104" font-family="Arial,sans-serif" font-size="46" font-weight="bold" fill="#3463dd">PaperLens</text>
+<text x="70" y="158" font-family="Arial,PingFang SC,sans-serif" font-size="25" fill="#445574">把理解放在原文旁边</text>
+<text x="70" y="204" font-family="Arial,PingFang SC,sans-serif" font-size="17" fill="#7c89a1">PDF 优先 · 本地阅读 · Mac / Windows</text>
+<g fill="#fff" stroke="#d8e1f0"><rect x="70" y="266" width="316" height="168" rx="20"/><rect x="442" y="266" width="316" height="168" rx="20"/><rect x="814" y="266" width="316" height="168" rx="20"/></g>
+<g font-family="Arial,PingFang SC,sans-serif"><text x="98" y="307" font-size="14" fill="#637da8">01 / DISCOVER</text><text x="98" y="357" font-size="28" fill="#243e62">发现与获取</text><text x="98" y="398" font-size="17" fill="#7c89a1">搜索论文 · 合法全文</text><text x="470" y="307" font-size="14" fill="#637da8">02 / READ</text><text x="470" y="357" font-size="28" fill="#243e62">连续阅读</text><text x="470" y="398" font-size="17" fill="#7c89a1">本地 PDF · 恢复进度</text><text x="842" y="307" font-size="14" fill="#637da8">03 / UNDERSTAND</text><text x="842" y="357" font-size="28" fill="#243e62">回到原文理解</text><text x="842" y="398" font-size="17" fill="#7c89a1">选区翻译 · 概念与引用</text></g>
+<g font-family="Arial,sans-serif" font-size="30" fill="#9dafcc"><text x="401" y="363">→</text><text x="773" y="363">→</text></g>
+</svg>

@@ -1,0 +1,21 @@
+.DS_Store
+.pnpm-store/
+node_modules/
+dist/
+target/
+artifacts/
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pdf
+releases/*.dmg
+releases/*.exe
+releases/*.zip
+releases/*.tar.gz
+# Neighboring projects have their own repositories.
+/frameflow/
+/FrameFlow-*/
+/ppt-template-study/

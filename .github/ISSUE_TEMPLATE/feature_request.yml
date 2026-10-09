@@ -1,0 +1,15 @@
+name: 功能建议
+description: 说明需要解决的阅读问题
+title: '[Feature] '
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 你需要完成什么，当前哪里不方便？
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: 什么结果说明这个功能解决了问题？

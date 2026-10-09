@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PaperLens">
+  <defs>
+    <linearGradient id="g" x1="8" y1="4" x2="54" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6b8cff"/>
+      <stop offset="1" stop-color="#4165dd"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="15" fill="url(#g)"/>
+  <path d="M19 16.5h18.5L46 25v22.5H19z" fill="white" fill-opacity=".96"/>
+  <path d="M37.5 16.5V25H46" fill="none" stroke="#4165dd" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M25 31h14M25 36h14M25 41h9" stroke="#6b8cff" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="43" cy="43" r="8" fill="#172554" stroke="white" stroke-width="2"/>
+  <path d="m49 49 4 4" stroke="white" stroke-width="2.8" stroke-linecap="round"/>
+</svg>
